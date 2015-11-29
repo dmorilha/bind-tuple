@@ -1,0 +1,5 @@
+Do you like JavaScript's call and apply? Me too!
+
+This provides similar functionality in C++ based on tuples which are defined during compile time.
+
+You have the advantage of such dynamic constructions with extra checking performed by the compiler.
